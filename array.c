@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-void main ()
+int main ()
 {
     int number[30];
     int i, j, a, n;
